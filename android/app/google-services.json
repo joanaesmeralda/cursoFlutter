@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167130815960",
+    "project_id": "curso-flutter-adec3",
+    "storage_bucket": "curso-flutter-adec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167130815960:android:e6c59ccd94e12d1859a6ad",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167130815960-argv5q8uir5uigvc5niva1fo9hb8m076.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anncode.platzitripsapp",
+            "certificate_hash": "79985b4c24caf9f58b48c90b87a2fdb86da065b7"
+          }
+        },
+        {
+          "client_id": "167130815960-nn9ioc6kod0lphfacpr2jqn1f39ov8hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqh1a0nUMmmprtUUOSAezBllqf4Xrw_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167130815960-nn9ioc6kod0lphfacpr2jqn1f39ov8hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
